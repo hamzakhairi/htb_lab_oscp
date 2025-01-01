@@ -1,8 +1,3 @@
-Your current report for the HTB "Shocker" lab looks well-structured, but there are a few areas to improve in accuracy and clarity, especially under **Privilege Escalation**, which seems to have mixed content. Here's a revised and clarified version:
-
----
-
-markdown
 # [Shocker]: HTB Lab Write-Up
 - [Introduction](#introduction)
 - [Enumeration](#enumeration)
