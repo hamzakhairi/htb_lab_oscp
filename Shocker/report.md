@@ -91,13 +91,3 @@ cat /root/root.txt
   - Minimizing sudo permissions granted to regular users.
 ```
 
----
-
-### **Key Fixes and Updates:**
-1. **Corrected Privilege Escalation Details:** 
-   - Removed reference to "SUID Binary," which was not relevant to this lab.
-   - Clearly explained the usage of `sudo` and `/usr/bin/perl` for escalation.
-2. **Better Screenshot Descriptions:** Included placeholder descriptions for expected screenshots.
-3. **Simplified Steps for Clarity:** Consolidated details under clear headings.
-
-Let me know if you'd like help automating or formatting this on GitHub!
