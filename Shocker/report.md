@@ -2,7 +2,7 @@ Your current report for the HTB "Shocker" lab looks well-structured, but there a
 
 ---
 
-```markdown
+markdown
 # [Shocker]: HTB Lab Write-Up
 - [Introduction](#introduction)
 - [Enumeration](#enumeration)
